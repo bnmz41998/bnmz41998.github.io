@@ -1,0 +1,39 @@
+#title{
+    background-color:#FFD4D4;
+}
+
+.nav-item{
+    padding-right: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-size:1.25rem;
+    padding-bottom: 0;
+}
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
+
+.navbar{
+    color: #EFA3C8;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 7% 7%;
+}
+
+.icon{
+    color:#EFA3C8;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color:#FF78F0;
+}
+
+h4 {
+    font-family: 'Ubuntu-bold', sans-serif;
+    font-weight:800;
+    color: black;
+}
